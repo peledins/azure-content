@@ -108,7 +108,7 @@ On successful completion of the script,you will now get an output like the one b
 you are have the information you need to set up a secure cluster. Go to Step3.
 
 
-**Step 2.5**: If want to create a new Self Signed Cert and upload it to the Key Vault. 
+**Step 2.5**: If you want to create a new Self Signed Cert and upload it to the Key Vault. 
 
 Log in to your Azure Account
 
